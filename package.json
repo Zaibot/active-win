@@ -54,7 +54,7 @@
 	"optionalDependencies": {
 		"ffi-napi": "^2.4.5",
 		"ref-napi": "^1.4.2",
-		"ref-wchar": "^1.0.2",
+		"ref-wchar": "github:Zaibot/ref-wchar",
 		"ref-struct-di": "^1.1.0"
 	}
 }
